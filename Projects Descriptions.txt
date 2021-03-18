@@ -1,0 +1,21 @@
+Ethan Frailey
+
+Guess My Number:
+- This is a program created to guess your number in a command line interface. It has 3 built in diffuculties to test you guessing skills
+
+Guess My Number GUI: 
+- This is a program created to guess your number in a GUI interface. It has 3 built in diffuculties to test you guessing skills
+
+GUI Calculator:
+- This is a calcultor in a GUI interace. You can do calculations in this program
+
+HangMan
+- This is the game hangman in a command line interface. It has multiple words built in already.
+
+Snake
+- This is the game snake built in a Tkinter interface.
+
+Contact Me:
+- File for Contacting the creator
+
+
