@@ -1,0 +1,6 @@
+Ethan Frailey
+
+I am Ethan Frailey. Have have been coding for about a year now. My main coding language right now is Python but I plan on going into Swift and C++ later on. 
+Some of the things i can do in python is complex math equations, object orintated programing, reading and writing to files, Pygame, and Tkinter. 
+I also work a lot on iPad so i have experiance in Pythonstia which main UI tool is called UI. 
+If you need to contact me you can look in the Contact Me.txt file for the information.
